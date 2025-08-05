@@ -4,7 +4,6 @@
 
 body {
     background-color: #F2F5FA;
-    font-family: "Lato", sans-serif;
 }
 
 main {
@@ -38,6 +37,7 @@ main {
 
 .description p {
     color: #4A5567;
+    font-family: "Lato", sans-serif;
 }
 
 h1 {
@@ -55,6 +55,7 @@ hr {
     display: flex;
     align-items: center;
     margin: 0 32px;
+    font-family: "Lato", sans-serif;
 }
 
 h2 {
@@ -75,5 +76,6 @@ h2 {
     border: 4px solid #F2F5F9;
     margin-right: 12px;
 }
+
 
 
